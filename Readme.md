@@ -10,6 +10,7 @@ This repository contains a Power BI dashboard project aimed at analyzing and vis
    ![Sales Analysis](screenshots/s1.png)
    ![Customer Insights](screenshots/s2.png)
    ![Inventory Performance](screenshots/s3.png)
+   ![Inventory Performance](screenshots/s4.png)
 ---
 
 ## Files in This Repository
